@@ -102,10 +102,10 @@ def test_even_numbers():
        only_odd_mul(2,4)
 
 
-# conftest.py: sharing fixture functions¶
+# conftest.py: sharing fixture functions
 If during implementing your tests you realize that you want to use a fixture function from multiple test files you can move it to a conftest.py file. You don’t need to import the fixture you want to use in a test, it automatically gets discovered by pytest. The discovery of fixture functions starts at test classes, then test modules, then conftest.py files and finally builtin and third party plugins.
 
-# Scope: sharing a fixture instance across tests in a class, module or session¶
+# Scope: sharing a fixture instance across tests in a class, module or session
 We can add a scope="module" parameter to the @pytest.fixture invocation to cause the decorated smtp_connection fixture function to only be invoked once per test module (the default is to invoke once per test function).
 
 import pytest
