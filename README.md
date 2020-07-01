@@ -15,3 +15,5 @@ Read: 06 | [Random Module. Dependency Injection](https://github.com/sydoruk89/re
 Read: 07 | [Python Scope & the LEGB Rule](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-07.md)
 Read: 08 | [List Comprehensions. Primer on Python Decorators](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-08.md)
 Read: 09 | [Dunder Methods. Statistics](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-09.md)
+Read: 10 | []()
+Read: 11 | [Data analasis](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-11.md)
