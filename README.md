@@ -18,3 +18,5 @@ Read: 09 | [Dunder Methods. Statistics](https://github.com/sydoruk89/reading-not
 Read: 10 | [Stacks and Queues](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-10.md)
 Read: 11 | [Data analysis](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-11.md)
 Read: 12 | [Pandas](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-12.md)
+Read: 13 | [Readings: Linear Regressions](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-13.md)
+Read: 14 | [Data visualization](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-14.md)
