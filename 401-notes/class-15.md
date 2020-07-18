@@ -59,6 +59,7 @@ In practice, boosted trees tend to have the highest performance ceilings.
 - They often beat many other types of models after proper tuning.
 - They are more complicated to tune than random forests.
 
+## Python Data Wrangling Sample
 1. Import libraries and dataset
 import pandas as pd
 pd.options.display.float_format = '{:,.2f}'.format
