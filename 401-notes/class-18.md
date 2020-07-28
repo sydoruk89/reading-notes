@@ -25,3 +25,5 @@ It is used when transmitting email files, remotely connecting to servers, and ev
 ## 4. Key Exchange Algorithms
 A key exchange algorithm, like Diffie-Hellman, is used to safely exchange encryption keys with an unknown party. \
 Unlike other forms of encryption, you are not sharing information during the key exchange. The end goal is to create an encryption key with another party that can later be used with the aforementioned forms of cryptography.
+
+## Install BitLocker (for Windows) or FileVault2 (for Mac)
