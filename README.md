@@ -22,3 +22,5 @@ Read: 13 | [Readings: Linear Regressions](https://github.com/sydoruk89/reading-n
 Read: 14 | [Data visualization](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-14.md)
 Read: 15 | [Machine Learning](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-15.md)
 Read: 16 | [Web Scraping](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-16.md)
+Read: 17 | [Trees](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-17.md)
+Read: 18 | [Cryptography](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-18.md)
