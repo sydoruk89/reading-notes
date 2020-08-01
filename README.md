@@ -24,3 +24,4 @@ Read: 15 | [Machine Learning](https://github.com/sydoruk89/reading-notes/blob/ma
 Read: 16 | [Web Scraping](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-16.md)
 Read: 17 | [Trees](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-17.md)
 Read: 18 | [Cryptography](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-18.md)
+Read: 19 | [Automation, Regex](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-19.md)
