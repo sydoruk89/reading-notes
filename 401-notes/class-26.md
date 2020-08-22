@@ -38,7 +38,7 @@ That’ll create a directory polls, which is laid out like this:
     * tests.py
     * views.py
 
-## Write your first view¶
+## Write your first view
 Let’s write the first view. Open the file polls/views.py and put the following Python code in it:
 
 polls/views.py¶
@@ -52,7 +52,7 @@ To create a URLconf in the polls directory, create a file called urls.py.
 
 In the polls/urls.py file include the following code:
 
-polls/urls.py¶
+polls/urls.py
 from django.urls import path
 
 from . import views
