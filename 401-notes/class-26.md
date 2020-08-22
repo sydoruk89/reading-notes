@@ -75,7 +75,7 @@ python manage.py runserver
 **python manage.py migrate** \
 The migrate command looks at the INSTALLED_APPS setting and creates any necessary database tables according to the database settings in your mysite/settings.py file and the database migrations shipped with the app (we’ll cover those later). You’ll see a message for each migration it applies. If you’re interested, run the command-line client for your database and type \dt (PostgreSQL), SHOW TABLES; (MariaDB, MySQL), .schema (SQLite), or SELECT TABLE_NAME FROM USER_TABLES; (Oracle) to display the tables Django created.
 
-polls/models.py¶
+polls/models.py
 from django.db import models
 
 
@@ -91,7 +91,7 @@ class Choice(models.Model):
 
 Edit the mysite/settings.py file and add that dotted path to the INSTALLED_APPS setting. It’ll look like this:
 
-mysite/settings.py¶
+mysite/settings.py
 INSTALLED_APPS = [
     'polls.apps.PollsConfig',
     'django.contrib.admin',
