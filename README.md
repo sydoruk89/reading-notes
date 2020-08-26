@@ -25,4 +25,5 @@ Read: 16 | [Web Scraping](https://github.com/sydoruk89/reading-notes/blob/master
 Read: 17 | [Trees](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-17.md)
 Read: 18 | [Cryptography](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-18.md)
 Read: 19 | [Automation, Regex](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-19.md)
-Read: 26 | [Django](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-26.md)
+Read: 26 | [Django intro](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-26.md)
+Read: 27 | [Django models](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-27.md)
