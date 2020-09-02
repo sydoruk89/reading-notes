@@ -28,3 +28,4 @@ Read: 19 | [Automation, Regex](https://github.com/sydoruk89/reading-notes/blob/m
 Read: 26 | [Django intro](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-26.md)
 Read: 27 | [Django models](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-27.md)
 Read: 28 | [Django CRUD and Forms](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-28.md)
+Read: 29 | [Django Custom User](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-29.md)
