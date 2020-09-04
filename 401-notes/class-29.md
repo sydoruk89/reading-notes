@@ -1,6 +1,7 @@
 # [Django Custom User](https://learndjango.com/tutorials/django-custom-user-model)
 
 ## [Django Login and Logout Tutorial](https://learndjango.com/tutorials/django-login-and-logout-tutorial)
+## [Django Log In with Email not Username](https://learndjango.com/tutorials/django-log-in-email-not-username)
 ## AbstractUser vs AbstractBaseUser
 There are two modern ways to create a custom user model in Django: AbstractUser and AbstractBaseUser. In both cases we can subclass them to extend existing functionality however AbstractBaseUser requires much, much more work. Seriously, don't mess with it unless you really know what you're doing. And if you did, you wouldn't be reading this tutorial, would you?
 
