@@ -1,4 +1,7 @@
 # Django REST Framework & Docker
+* [Docker](https://wsvincent.com/beginners-guide-to-docker/)
+* [Django REST 1](https://djangoforapis.com/library-website-and-api/)
+* [Django REST 2](https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners)
 ## Images and Containers
 Images and containers are the two fundamental concepts to grasp when you start with Docker. An image is a snapshot in time of what a project contains. A container is a running instance of the image.
 
