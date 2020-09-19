@@ -33,3 +33,4 @@ Read: 30 | [Hashtables](https://github.com/sydoruk89/reading-notes/blob/master/4
 Read: 31 | [Django REST & Docker](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-31.md)
 Read: 32 | [Readings: Permissions & Postgresql](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-32.md)
 Read: 33 | [Authentication (JWT) & Production Server](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-33.md)
+Read: 34 | [API Deployment](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-34.md)
