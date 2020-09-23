@@ -34,3 +34,4 @@ Read: 31 | [Django REST & Docker](https://github.com/sydoruk89/reading-notes/blo
 Read: 32 | [Readings: Permissions & Postgresql](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-32.md)
 Read: 33 | [Authentication (JWT) & Production Server](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-33.md)
 Read: 34 | [API Deployment](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-34.md)
+Read: 35 | [DSA Review](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-35.md)
