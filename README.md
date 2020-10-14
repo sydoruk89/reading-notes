@@ -40,3 +40,4 @@ Read: 37 | [React 1](https://github.com/sydoruk89/reading-notes/blob/master/401-
 Read: 38 | [React 2](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-38.md)
 Read: 39 |[React 3](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-39.md)
 Read: 40 |[Security](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-40.md)
+Read: 41 | [Next.js deployment. Elephant SQL. Heroku](https://github.com/sydoruk89/reading-notes/blob/master/401-notes/class-41.md)
